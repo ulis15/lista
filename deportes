@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF: -1, TNT SPORTS
+https://edge-live15-hr.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+
+#EXTINT: -1, ESPN PREMIUM
+https://edge-live15-hr.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD-avc1_1499968=10003-mp4a_145200_spa=20001.m3u8
